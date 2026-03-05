@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en"
+      xmlns:f="jakarta.faces.core"
+      xmlns:h="jakarta.faces.html" >
+
+<h:head>
+   <title>Bernardo - Midterm Case Study</title>
+</h:head>
+<h:body>
+   <div>
+   <h3 style="text-align: center">Term Grade Report</h3>
+   <table style="width:100%;">
+      <tr style="border-bottom: #ddd;">
+         <th style="background-color:#F7C8E0">Course Code</th>
+         <th style="background-color:#B4E4FF">Course Units</th>
+         <th style="background-color:#DFFFD8">Term Grade</th>
+         <th style="background-color:#95BDFF">Grade Point</th>
+      </tr>
+      <tbody style="width:100%; border-bottom: #ddd; text-align: center">
+      <tr style="border-bottom: #ddd;">
+         <td style="text-align: center;background-color:#F7C8E0">
+            <h:dataTable id="CourseTitle" value="#{midtermBean.courseCodeArray}" var="courseCode">
+               <h:column style="text-align: center">#{courseCode}</h:column>
+            </h:dataTable>
+         </td >
+         <td style="text-align: center; background-color:#B4E4FF">
+            <h:dataTable id="numberOfUnits" value="#{midtermBean.numberOfUnitsArray}" var="numberOfUnits">
+               <h:column style="text-align: center">#{numberOfUnits}</h:column>
+            </h:dataTable>
+         </td>
+         <td style="text-align: center; background-color:#DFFFD8">
+            <h:dataTable id="termGrade" value="#{midtermBean.termGradeArray}" var="termGrade">
+               <h:column style="text-align: center">#{termGrade}</h:column>
+            </h:dataTable>
+         </td>
+         <td style="text-align: center; background-color:#95BDFF">
+            <h:dataTable id="gradePoint" value="#{midtermBean.gradePointArray}" var="gradePoint">
+               <h:column style="text-align: center">#{gradePoint}</h:column>
+            </h:dataTable>
+         </td>
+      </tr>
+      </tbody>
+   </table>
+   </div>
+   <hr/>
+
+      <h:form>
+         <h:outputLabel>Input Course Code:</h:outputLabel>
+         <br/><br/>
+         <h:inputText value="#{midtermBean.courseCode}"></h:inputText>
+         <br/><br/>
+         <h:outputLabel>Select Number Of Units:</h:outputLabel>
+         <br/>
+         <h:selectOneListbox value="#{midtermBean.numberOfUnits}">
+         <br/>
+            <f:selectItemGroup itemLabel="No. of Units">
+               <f:selectItem itemValue="1.0" itemLabel="1.0" />
+               <f:selectItem itemValue="2.0" itemLabel="2.0" />
+               <f:selectItem itemValue="3.0" itemLabel="3.0" />
+               <f:selectItem itemValue="4.0" itemLabel="4.0" />
+            </f:selectItemGroup>
+         </h:selectOneListbox>
+         <br/><br/>
+         <h:outputLabel>Select Term Grade:</h:outputLabel>
+         <br/><br/>
+         <h:selectOneListbox value="#{midtermBean.termGrade}">
+            <f:selectItemGroup itemLabel="Term Grade">
+               <f:selectItem itemValue="0.0" itemLabel="R" />
+               <f:selectItem itemValue="1.0" itemLabel="1.0" />
+               <f:selectItem itemValue="1.5" itemLabel="1.5" />
+               <f:selectItem itemValue="2.0" itemLabel="2.0" />
+               <f:selectItem itemValue="2.5" itemLabel="2.5" />
+               <f:selectItem itemValue="3.0" itemLabel="3.0" />
+               <f:selectItem itemValue="3.5" itemLabel="3.5" />
+               <f:selectItem itemValue="4.0" itemLabel="4.0" />
+            </f:selectItemGroup>
+         </h:selectOneListbox>
+         <br/><br/>
+         <h:commandButton value="Add Course Report Info" action="#{midtermBean.addCourse()}" />
+      </h:form> <br/><br/>
+
+   <h:form>
+      <fieldset>
+         <legend>Term Grade Report Summary</legend>
+         <h:inputHidden value="#{midtermBean.totalGrade}"></h:inputHidden>
+         <h:inputHidden value="#{midtermBean.totalUnits}"></h:inputHidden>
+         <h:outputLabel value="#{midtermBean.totalGradeResult}"></h:outputLabel><br/>
+         <h:outputLabel value="#{midtermBean.totalUnitsResult}"></h:outputLabel><br/>
+         <h:outputLabel value="#{midtermBean.TGPAResult}"></h:outputLabel><br/><br/>
+         <h:commandButton action="#{midtermBean.displayResult}" value="Generate Report Summary" />
+      </fieldset>
+      </h:form>
+
+</h:body>
+</html>
