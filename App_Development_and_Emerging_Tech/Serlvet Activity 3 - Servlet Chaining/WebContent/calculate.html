@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<style>
+body
+{
+background-color: SlateBlue;
+}
+
+option
+{
+font-family: Fantasy;
+}
+p
+{
+font-family: Fantasy;
+font-size: 15px;
+}
+
+</style>
+<body>
+	 <form action="CalculateInput" method="POST">
+        
+               <p>Enter the First Number:</p>
+               <input name="num1" type="text" />
+            
+
+                <p>Enter the Second Number:</p>
+               <input name="num2" type="text" />
+            
+           
+               <p>Operation to be Used:</p>
+                
+                <select name="operation">
+                    <option value='1'>Addition</option>
+                    <option value="2">Subtraction</option>
+                    <option value="3">Multiplication</option>
+                    <option value="4">Division</option>
+                </select>
+            
+
+                <input type="submit"/>
+		</form>
+</body>
+</html>

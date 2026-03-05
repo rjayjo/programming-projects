@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd" id="WebApp_ID" version="4.0">
+  <display-name>Serlvet Activity 3 - Servlet Chaining</display-name>
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+    <welcome-file>index.jsp</welcome-file>
+    <welcome-file>index.htm</welcome-file>
+    <welcome-file>default.html</welcome-file>
+    <welcome-file>default.jsp</welcome-file>
+    <welcome-file>default.htm</welcome-file>
+  </welcome-file-list>
+ 
+ <servlet>
+ 	<servlet-name>calculate</servlet-name>
+ 	<servlet-class>com.servletchaining.simplecalculator.CalculateServlet</servlet-class>
+ </servlet>
+ <servlet-mapping>
+ 	<servlet-name>calculate</servlet-name>
+ 	<url-pattern>/CalculateInput</url-pattern>
+ </servlet-mapping>
+ 
+  <servlet>
+ 	<servlet-name>computationresult</servlet-name>
+ 	<servlet-class>com.servletchaining.simplecalculator.ResultServlet</servlet-class>
+ </servlet>
+ <servlet-mapping>
+ 	<servlet-name>computationresult</servlet-name>
+ 	<url-pattern>/ComputationResult</url-pattern>
+ </servlet-mapping>
+
+</web-app>

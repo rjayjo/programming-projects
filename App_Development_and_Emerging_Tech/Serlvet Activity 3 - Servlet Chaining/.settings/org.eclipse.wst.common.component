@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Serlvet Activity 3 - Servlet Chaining">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <property name="context-root" value="Serlvet_Activity_3_-_Servlet_Chaining"/>
+        <property name="java-output-path" value="/Serlvet Activity 3 - Servlet Chaining/build/classes"/>
+    </wb-module>
+</project-modules>
