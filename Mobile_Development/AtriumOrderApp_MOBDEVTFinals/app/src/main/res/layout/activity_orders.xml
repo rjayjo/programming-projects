@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".OrdersActivity">
+
+
+    <Button
+        android:id="@+id/btnSignOut"
+        android:layout_width="71dp"
+        android:layout_height="34dp"
+        android:layout_marginTop="1dp"
+        android:layout_marginEnd="16dp"
+        android:text="."
+        app:icon="@drawable/logout"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnFinalizeOrder" />
+
+    <TextView
+        android:id="@+id/txtBalance"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnFinalizeOrder" />
+
+    <Button
+        android:id="@+id/btnMeals"
+        style="@style/HeaderButton"
+        android:layout_width="100dp"
+        android:layout_height="60dp"
+        android:text="Meals"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteY="6dp"
+        android:onClick="openMealsActivity" />
+
+    <Button
+        android:id="@+id/btnDrinks"
+        style="@style/HeaderButton"
+        app:layout_constraintStart_toEndOf="@+id/btnMeals"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_width="100dp"
+        android:layout_height="60dp"
+        android:text="Drinks"
+        tools:layout_editor_absoluteX="75dp"
+        tools:layout_editor_absoluteY="80dp"
+        android:onClick="openDrinksActivity"/>
+
+    <Button
+        android:id="@+id/btnOthers"
+        style="@style/HeaderButton"
+        app:layout_constraintStart_toEndOf="@+id/btnDrinks"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_width="100dp"
+        android:layout_height="60dp"
+        android:text="Others"
+        tools:layout_editor_absoluteX="28dp"
+        tools:layout_editor_absoluteY="165dp"
+        android:onClick="openOthersActivity"/>
+
+    <Button
+        android:id="@+id/btnOrders"
+        style="@style/HeaderButton"
+        app:layout_constraintStart_toEndOf="@+id/btnOthers"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_width="115dp"
+        android:layout_height="60dp"
+        android:text="Your Orders"
+        tools:layout_editor_absoluteX="221dp"
+        tools:layout_editor_absoluteY="140dp"
+        android:onClick="openOrdersActivity"/>
+
+    <LinearLayout
+        android:id="@+id/mealContainer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/lblMealOrders">
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/drinkContainer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/lblDrinkOrders"></LinearLayout>
+
+    <TextView
+        android:id="@+id/lblMealOrders"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:text="Meals:"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnMeals" />
+
+    <TextView
+        android:id="@+id/lblDrinkOrders"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="200dp"
+        android:text="Drinks:"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnMeals" />
+
+    <TextView
+        android:id="@+id/lblOtherOrders"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="400dp"
+        android:text="Others:"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnMeals" />
+
+    <LinearLayout
+        android:id="@+id/othersContainer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/lblOtherOrders"></LinearLayout>
+
+    <Button
+        android:id="@+id/btnFinalizeOrder"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="32dp"
+        android:text="Finalize Order"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textViewOverallTotal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:text="TextView"
+        app:layout_constraintBottom_toTopOf="@+id/btnFinalizeOrder"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+

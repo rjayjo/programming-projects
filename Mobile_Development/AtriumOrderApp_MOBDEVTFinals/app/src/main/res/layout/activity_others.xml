@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".OthersActivity">
+
+    <Button
+        android:id="@+id/btnSignOut"
+        android:layout_width="71dp"
+        android:layout_height="34dp"
+        android:layout_marginTop="1dp"
+        android:layout_marginEnd="2dp"
+        android:text="."
+        app:icon="@drawable/logout"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnCheckout" />
+
+    <androidx.appcompat.widget.SearchView
+        android:id="@+id/searchViewOthers"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/btnOrders" />
+
+    <TextView
+        android:id="@+id/txtBalance"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnCheckout" />
+
+    <Button
+        android:id="@+id/btnMeals"
+        style="@style/HeaderButton"
+        android:layout_width="100dp"
+        android:layout_height="60dp"
+        android:text="Meals"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteY="6dp"
+        android:onClick="openMealsActivity" />
+
+    <Button
+        android:id="@+id/btnDrinks"
+        style="@style/HeaderButton"
+        app:layout_constraintStart_toEndOf="@+id/btnMeals"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_width="100dp"
+        android:layout_height="60dp"
+        android:text="Drinks"
+        tools:layout_editor_absoluteX="75dp"
+        tools:layout_editor_absoluteY="80dp"
+        android:onClick="openDrinksActivity"/>
+
+    <Button
+        android:id="@+id/btnOthers"
+        style="@style/HeaderButton"
+        app:layout_constraintStart_toEndOf="@+id/btnDrinks"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_width="100dp"
+        android:layout_height="60dp"
+        android:text="Others"
+        tools:layout_editor_absoluteX="28dp"
+        tools:layout_editor_absoluteY="165dp"
+        android:onClick="openOthersActivity"/>
+
+    <Button
+        android:id="@+id/btnOrders"
+        style="@style/HeaderButton"
+        app:layout_constraintStart_toEndOf="@+id/btnOthers"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_width="115dp"
+        android:layout_height="60dp"
+        android:text="Your Orders"
+        tools:layout_editor_absoluteX="221dp"
+        tools:layout_editor_absoluteY="140dp"
+        android:onClick="openOrdersActivity"/>
+
+    <ImageView
+        android:id="@+id/imageViewOthers1"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginBottom="32dp"
+        android:background="#FFC107"
+        app:layout_constraintBottom_toTopOf="@+id/imageViewOthers2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/sandwich" />
+
+    <ImageView
+        android:id="@+id/imageViewOthers2"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginBottom="32dp"
+        android:background="#FFC107"
+        app:layout_constraintBottom_toTopOf="@+id/imageViewOthers3"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/empanada" />
+
+    <ImageView
+        android:id="@+id/imageViewOthers3"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginBottom="32dp"
+        android:background="#FFC107"
+        app:layout_constraintBottom_toTopOf="@+id/imageViewOthers4"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/burger" />
+
+    <ImageView
+        android:id="@+id/imageViewOthers4"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginBottom="64dp"
+        android:background="#FFC107"
+        app:layout_constraintBottom_toTopOf="@+id/btnCheckout"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/cornetto" />
+
+    <TextView
+        android:id="@+id/textViewOthersLabel4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:layout_marginBottom="16dp"
+        android:text="TextView"
+        app:layout_constraintBottom_toTopOf="@+id/textViewOthersPrice4"
+        app:layout_constraintStart_toEndOf="@+id/imageViewOthers4" />
+
+    <TextView
+        android:id="@+id/textViewOthersLabel3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:layout_marginBottom="16dp"
+        android:text="TextView"
+        app:layout_constraintBottom_toTopOf="@+id/textViewOthersPrice3"
+        app:layout_constraintStart_toEndOf="@+id/imageViewOthers3" />
+
+    <TextView
+        android:id="@+id/textViewOthersLabel2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:layout_marginBottom="16dp"
+        android:text="TextView"
+        app:layout_constraintBottom_toTopOf="@+id/textViewOthersPrice2"
+        app:layout_constraintStart_toEndOf="@+id/imageViewOthers2" />
+
+    <TextView
+        android:id="@+id/textViewOthersLabel1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:layout_marginBottom="16dp"
+        android:text="TextView"
+        app:layout_constraintBottom_toTopOf="@+id/textViewOthersPrice1"
+        app:layout_constraintStart_toEndOf="@+id/imageViewOthers1" />
+
+    <TextView
+        android:id="@+id/textViewOthersPrice4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:layout_marginBottom="85dp"
+        android:text="TextView"
+        app:layout_constraintBottom_toTopOf="@+id/btnCheckout"
+        app:layout_constraintStart_toEndOf="@+id/imageViewOthers4" />
+
+    <TextView
+        android:id="@+id/textViewOthersPrice3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:layout_marginBottom="85dp"
+        android:text="TextView"
+        app:layout_constraintBottom_toTopOf="@+id/textViewOthersLabel4"
+        app:layout_constraintStart_toEndOf="@+id/imageViewOthers3" />
+
+    <TextView
+        android:id="@+id/textViewOthersPrice2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:layout_marginBottom="85dp"
+        android:text="TextView"
+        app:layout_constraintBottom_toTopOf="@+id/textViewOthersLabel3"
+        app:layout_constraintStart_toEndOf="@+id/imageViewOthers2" />
+
+    <TextView
+        android:id="@+id/textViewOthersPrice1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:layout_marginBottom="85dp"
+        android:text="TextView"
+        app:layout_constraintBottom_toTopOf="@+id/textViewOthersLabel2"
+        app:layout_constraintStart_toEndOf="@+id/imageViewOthers1" />
+
+    <Button
+        android:id="@+id/btnCheckout"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="32dp"
+        android:text="Checkout"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <LinearLayout
+        android:layout_width="122dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="80dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toTopOf="@+id/btnCheckout"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <EditText
+            android:id="@+id/editTextOthers1Qty"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_marginBottom="50dp"
+            android:ems="10"
+            android:inputType="number"
+            android:text="0"
+            android:textAlignment="center" />
+
+        <EditText
+            android:id="@+id/editTextOthers2Qty"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_marginBottom="50dp"
+            android:ems="10"
+            android:inputType="number"
+            android:text="0"
+            android:textAlignment="center" />
+
+        <EditText
+            android:id="@+id/editTextOthers3Qty"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_marginBottom="50dp"
+            android:ems="10"
+            android:inputType="number"
+            android:text="0"
+            android:textAlignment="center" />
+
+        <EditText
+            android:id="@+id/editTextOthers4Qty"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_marginBottom="0dp"
+            android:ems="10"
+            android:inputType="number"
+            android:text="0"
+            android:textAlignment="center" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

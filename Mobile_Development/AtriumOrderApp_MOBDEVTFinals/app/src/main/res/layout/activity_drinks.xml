@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DrinksActivity">
+
+    <Button
+        android:id="@+id/btnSignOut"
+        android:layout_width="71dp"
+        android:layout_height="34dp"
+        android:layout_marginTop="1dp"
+        android:layout_marginEnd="16dp"
+        android:text="."
+        app:icon="@drawable/logout"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnCheckout" />
+
+    <androidx.appcompat.widget.SearchView
+        android:id="@+id/searchViewDrinks"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/btnOrders" />
+
+    <Button
+        android:id="@+id/btnMeals"
+        style="@style/HeaderButton"
+        android:layout_width="100dp"
+        android:layout_height="60dp"
+        android:text="Meals"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteY="6dp"
+        android:onClick="openMealsActivity" />
+
+    <Button
+        android:id="@+id/btnDrinks"
+        style="@style/HeaderButton"
+        app:layout_constraintStart_toEndOf="@+id/btnMeals"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_width="100dp"
+        android:layout_height="60dp"
+        android:text="Drinks"
+        tools:layout_editor_absoluteX="75dp"
+        tools:layout_editor_absoluteY="80dp"
+        android:onClick="openDrinksActivity"/>
+
+    <Button
+        android:id="@+id/btnOthers"
+        style="@style/HeaderButton"
+        app:layout_constraintStart_toEndOf="@+id/btnDrinks"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_width="100dp"
+        android:layout_height="60dp"
+        android:text="Others"
+        tools:layout_editor_absoluteX="28dp"
+        tools:layout_editor_absoluteY="165dp"
+        android:onClick="openOthersActivity"/>
+
+    <Button
+        android:id="@+id/btnOrders"
+        style="@style/HeaderButton"
+        app:layout_constraintStart_toEndOf="@+id/btnOthers"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_width="115dp"
+        android:layout_height="60dp"
+        android:text="Your Orders"
+        tools:layout_editor_absoluteX="221dp"
+        tools:layout_editor_absoluteY="140dp"
+        android:onClick="openOrdersActivity"/>
+
+    <ImageView
+        android:id="@+id/imageViewDrinks1"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginBottom="32dp"
+        android:background="#FFC107"
+        app:layout_constraintBottom_toTopOf="@+id/imageViewDrinks2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/aquafina" />
+
+    <ImageView
+        android:id="@+id/imageViewDrinks2"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginBottom="32dp"
+        android:background="#FFC107"
+        app:layout_constraintBottom_toTopOf="@+id/imageViewDrinks3"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/c2" />
+
+    <ImageView
+        android:id="@+id/imageViewDrinks3"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginBottom="32dp"
+        android:background="#FFC107"
+        app:layout_constraintBottom_toTopOf="@+id/imageViewDrinks4"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/cocacola" />
+
+    <ImageView
+        android:id="@+id/imageViewDrinks4"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginBottom="64dp"
+        android:background="#FFC107"
+        app:layout_constraintBottom_toTopOf="@+id/btnCheckout"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/gatorade" />
+
+    <TextView
+        android:id="@+id/textViewDrinksLabel4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:layout_marginBottom="16dp"
+        android:text="TextView"
+        app:layout_constraintBottom_toTopOf="@+id/textViewDrinksPrice4"
+        app:layout_constraintStart_toEndOf="@+id/imageViewDrinks4" />
+
+    <TextView
+        android:id="@+id/textViewDrinksLabel3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:layout_marginBottom="16dp"
+        android:text="TextView"
+        app:layout_constraintBottom_toTopOf="@+id/textViewDrinksPrice3"
+        app:layout_constraintStart_toEndOf="@+id/imageViewDrinks3" />
+
+    <TextView
+        android:id="@+id/textViewDrinksLabel2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:layout_marginBottom="16dp"
+        android:text="TextView"
+        app:layout_constraintBottom_toTopOf="@+id/textViewDrinksPrice2"
+        app:layout_constraintStart_toEndOf="@+id/imageViewDrinks2" />
+
+    <TextView
+        android:id="@+id/textViewDrinksLabel1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:layout_marginBottom="16dp"
+        android:text="TextView"
+        app:layout_constraintBottom_toTopOf="@+id/textViewDrinksPrice1"
+        app:layout_constraintStart_toEndOf="@+id/imageViewDrinks1" />
+
+    <TextView
+        android:id="@+id/textViewDrinksPrice4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:layout_marginBottom="85dp"
+        android:text="TextView"
+        app:layout_constraintBottom_toTopOf="@+id/btnCheckout"
+        app:layout_constraintStart_toEndOf="@+id/imageViewDrinks4" />
+
+    <TextView
+        android:id="@+id/textViewDrinksPrice3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:layout_marginBottom="85dp"
+        android:text="TextView"
+        app:layout_constraintBottom_toTopOf="@+id/textViewDrinksLabel4"
+        app:layout_constraintStart_toEndOf="@+id/imageViewDrinks3" />
+
+    <TextView
+        android:id="@+id/textViewDrinksPrice2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:layout_marginBottom="85dp"
+        android:text="TextView"
+        app:layout_constraintBottom_toTopOf="@+id/textViewDrinksLabel3"
+        app:layout_constraintStart_toEndOf="@+id/imageViewDrinks2" />
+
+    <TextView
+        android:id="@+id/textViewDrinksPrice1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:layout_marginBottom="85dp"
+        android:text="TextView"
+        app:layout_constraintBottom_toTopOf="@+id/textViewDrinksLabel2"
+        app:layout_constraintStart_toEndOf="@+id/imageViewDrinks1" />
+
+    <Button
+        android:id="@+id/btnCheckout"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="32dp"
+        android:text="Checkout"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <LinearLayout
+        android:layout_width="122dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="80dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toTopOf="@+id/btnCheckout"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <EditText
+            android:id="@+id/editTextDrinks1Qty"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_marginBottom="50dp"
+            android:ems="10"
+            android:inputType="number"
+            android:text="0"
+            android:textAlignment="center" />
+
+        <EditText
+            android:id="@+id/editTextDrinks2Qty"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_marginBottom="50dp"
+            android:ems="10"
+            android:inputType="number"
+            android:text="0"
+            android:textAlignment="center" />
+
+        <EditText
+            android:id="@+id/editTextDrinks3Qty"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_marginBottom="50dp"
+            android:ems="10"
+            android:inputType="number"
+            android:text="0"
+            android:textAlignment="center" />
+
+        <EditText
+            android:id="@+id/editTextDrinks4Qty"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_marginBottom="0dp"
+            android:ems="10"
+            android:inputType="number"
+            android:text="0"
+            android:textAlignment="center" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/txtBalance"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnCheckout" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

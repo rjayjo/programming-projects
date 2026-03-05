@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "902651839200",
+    "project_id": "canteen-649b2",
+    "storage_bucket": "canteen-649b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902651839200:android:bc5032cabf48193a8dc685",
+        "android_client_info": {
+          "package_name": "com.example.atriumorderapp_mobdevtfinals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902651839200-m0s0g9gd0b2bhqb9pj2dlotsbpuabk1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6zP6_SZh1nVkkaof75ATJrwqvIOtmSPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902651839200-m0s0g9gd0b2bhqb9pj2dlotsbpuabk1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902651839200:android:019a49ab2b6ddc468dc685",
+        "android_client_info": {
+          "package_name": "com.example.mobdevt_finals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902651839200-m0s0g9gd0b2bhqb9pj2dlotsbpuabk1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6zP6_SZh1nVkkaof75ATJrwqvIOtmSPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902651839200-m0s0g9gd0b2bhqb9pj2dlotsbpuabk1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
