@@ -1,0 +1,39 @@
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - 2 Layer Application\bin\Debug\net5.0-windows\Bernardo - 2 Layer Application.exe
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - 2 Layer Application\bin\Debug\net5.0-windows\Bernardo - 2 Layer Application.deps.json
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - 2 Layer Application\bin\Debug\net5.0-windows\Bernardo - 2 Layer Application.runtimeconfig.json
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - 2 Layer Application\bin\Debug\net5.0-windows\Bernardo - 2 Layer Application.runtimeconfig.dev.json
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - 2 Layer Application\bin\Debug\net5.0-windows\Bernardo - 2 Layer Application.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - 2 Layer Application\bin\Debug\net5.0-windows\ref\Bernardo - 2 Layer Application.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - 2 Layer Application\bin\Debug\net5.0-windows\Bernardo - 2 Layer Application.pdb
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - 2 Layer Application\bin\Debug\net5.0-windows\Azure.Core.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - 2 Layer Application\bin\Debug\net5.0-windows\Azure.Identity.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - 2 Layer Application\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - 2 Layer Application\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - 2 Layer Application\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - 2 Layer Application\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - 2 Layer Application\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - 2 Layer Application\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - 2 Layer Application\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - 2 Layer Application\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - 2 Layer Application\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - 2 Layer Application\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - 2 Layer Application\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - 2 Layer Application\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - 2 Layer Application\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - 2 Layer Application\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - 2 Layer Application\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - 2 Layer Application\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - 2 Layer Application\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - 2 Layer Application\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - 2 Layer Application\obj\Debug\net5.0-windows\Bernardo - 2 Layer Application.csproj.AssemblyReference.cache
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - 2 Layer Application\obj\Debug\net5.0-windows\Bernardo___2_Layer_Application.Form1.resources
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - 2 Layer Application\obj\Debug\net5.0-windows\Bernardo - 2 Layer Application.csproj.GenerateResource.cache
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - 2 Layer Application\obj\Debug\net5.0-windows\Bernardo - 2 Layer Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - 2 Layer Application\obj\Debug\net5.0-windows\Bernardo - 2 Layer Application.AssemblyInfoInputs.cache
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - 2 Layer Application\obj\Debug\net5.0-windows\Bernardo - 2 Layer Application.AssemblyInfo.cs
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - 2 Layer Application\obj\Debug\net5.0-windows\Bernardo - 2 Layer Application.csproj.CoreCompileInputs.cache
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - 2 Layer Application\obj\Debug\net5.0-windows\Bernardo - 2 Layer Application.csproj.CopyComplete
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - 2 Layer Application\obj\Debug\net5.0-windows\Bernardo - 2 Layer Application.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - 2 Layer Application\obj\Debug\net5.0-windows\ref\Bernardo - 2 Layer Application.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - 2 Layer Application\obj\Debug\net5.0-windows\Bernardo - 2 Layer Application.pdb
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - 2 Layer Application\obj\Debug\net5.0-windows\Bernardo - 2 Layer Application.genruntimeconfig.cache

@@ -1,0 +1,18 @@
+﻿@model StudentsBLL
+
+<a asp-controller="Home" asp-action="Index">Return</a>
+
+<form asp-controller="Home" asp-action="Add" method="post">
+    Lastname
+    <input type="text" name="Lastname"
+           class="form-control" value="@Model.Lastname" />
+    <span class="text-danger" asp-validation-for="Lastname"></span><br />
+    Firstname
+    <input type="text" name="Firstname"
+           class="form-control" value="@Model.Firstname" />
+    <span class="text-danger" asp-validation-for="Firstname"></span>
+    <br /><br />
+    <button type="submit" class="btn btn-primary">
+        Add Student
+    </button>
+</form>

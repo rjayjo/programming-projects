@@ -1,0 +1,10 @@
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - Client Server\bin\Debug\Bernardo - Client Server.exe.config
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - Client Server\bin\Debug\Bernardo - Client Server.exe
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - Client Server\bin\Debug\Bernardo - Client Server.pdb
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - Client Server\obj\Debug\Bernardo - Client Server.csproj.AssemblyReference.cache
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - Client Server\obj\Debug\Bernardo___Client_Server.Form1.resources
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - Client Server\obj\Debug\Bernardo___Client_Server.Properties.Resources.resources
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - Client Server\obj\Debug\Bernardo - Client Server.csproj.GenerateResource.cache
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - Client Server\obj\Debug\Bernardo - Client Server.csproj.CoreCompileInputs.cache
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - Client Server\obj\Debug\Bernardo - Client Server.exe
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - Client Server\obj\Debug\Bernardo - Client Server.pdb

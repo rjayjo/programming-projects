@@ -1,0 +1,22 @@
+﻿@model AlbumBLL
+
+<a asp-controller="Album" asp-action="List" class="btn btn-outline-info">Go Back</a>
+<form asp-controller="Album" asp-action="Add" method="post">
+    <br />
+    Album Name
+    <input type="text" name="AlbumName"
+           class="form-control" value="@Model.AlbumName" />
+    <span class="text-danger" asp-validation-for="AlbumName"></span><br />
+    Artists
+    <input type="text" name="Artists"
+           class="form-control" value="@Model.Artists" />
+    <span class="text-danger" asp-validation-for="Artists"></span><br />
+    Year Released
+    <input type="number" name="YearReleased"
+           class="form-control" value="@Model.YearReleased" /> 
+    <span class="text-danger" asp-validation-for="YearReleased"></span>
+    <br /><br />
+    <button type="submit" class="btn btn-primary">
+        Add Album
+    </button>
+</form>

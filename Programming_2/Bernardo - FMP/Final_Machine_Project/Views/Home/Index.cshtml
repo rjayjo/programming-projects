@@ -1,0 +1,55 @@
+﻿@model List<StudentsBLL>
+
+<a asp-controller="Home" asp-action="Add" class="btn btn-outline-success btn-lg">
+    Upload New Student
+</a>
+
+
+<form method="get" asp-action="Index">
+    <p>
+        @foreach (StudentsBLL item in Model)
+        {
+            <input type="search" placeholder="Enter Lastname or Firstnname" value="@ViewData["GetStudents"]" name="Students" style="width:500px" />
+            <input type="submit" value="" class="btn btn-primary" />
+            <a asp-action="Index">Search All Students</a>
+        }
+     
+    </p>
+</form>
+
+
+<table class="table table-striped table-hover table-bordered table-sm">
+
+    <thead>
+        <tr>
+            <th>StudentID</th>
+            <th>Lastname</th>
+            <th>Firstname</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (StudentsBLL item in Model)
+        {
+            <tr>
+                <td>@item.StudentID</td>
+                <td>@item.Lastname</td>
+                <td>@item.Firstname</td>
+                <td>
+                    <a asp-controller="Home" asp-action="Edit"
+                       asp-route-id="@item.StudentID" class="btn btn-outline-info btn-sm">
+                        Edit
+                    </a>
+                    <form asp-controller="Home" asp-action="Delete"
+                          method="post" style="display: inline">
+                        <input type="hidden" name="StudentID" value="@item.StudentID" />
+                        <button type="submit"
+                                class="btn btn-outline-danger btn-sm">
+                            Delete
+                        </button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,47 @@
+﻿@using Intepro.BusinessLogic
+@model List<AlbumBLL>
+
+    <a asp-controller="Album" asp-action="Add" class="btn btn-outline-primary">
+        Add New Album Data
+    </a>
+   
+    
+<table class="table table-striped table-hover table-bordered table-sm">
+ 
+    <thead>
+        <tr>
+            <th class="text-info text-lg">Album ID</th>
+            <th class="text-info text-lg">Album Name</th>
+            <th class="text-info text-lg">Artists</th>
+            <th class="text-info text-lg">Year Released</th>
+            <th class="text-info text-lg">Action</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (AlbumBLL item in Model)
+        {
+            <tr>
+                <td>@item.AlbumID</td>
+                <td>@item.AlbumName</td>
+                <td>@item.Artists</td>
+                <td>@item.YearReleased</td>
+                <td>
+                    <a asp-controller="Album" asp-action="Edit"
+                    asp-route-id="@item.AlbumID" class="btn btn-outline-info btn-sm">
+                    Edit
+                    </a>
+
+                    <form asp-controller="Album" asp-action="Delete" method="post"
+                          style="display:inline">
+                        <input type="hidden" name="AlbumID" value="@item.AlbumID"/>
+                        <button type="submit" class="btn btn-outline-danger btn-sm">
+                            Delete
+                        </button>
+
+                    </form>
+                </td>
+          </tr>
+        }
+    </tbody>
+</table>

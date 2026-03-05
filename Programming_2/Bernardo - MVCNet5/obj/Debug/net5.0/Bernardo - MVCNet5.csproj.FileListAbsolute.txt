@@ -1,0 +1,64 @@
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\bin\Debug\net5.0\appsettings.json
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\bin\Debug\net5.0\Bernardo - MVCNet5.exe
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\bin\Debug\net5.0\Bernardo - MVCNet5.deps.json
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\bin\Debug\net5.0\Bernardo - MVCNet5.runtimeconfig.json
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\bin\Debug\net5.0\Bernardo - MVCNet5.runtimeconfig.dev.json
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\bin\Debug\net5.0\Bernardo - MVCNet5.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\bin\Debug\net5.0\ref\Bernardo - MVCNet5.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\bin\Debug\net5.0\Bernardo - MVCNet5.pdb
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\bin\Debug\net5.0\Bernardo - MVCNet5.Views.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\bin\Debug\net5.0\Bernardo - MVCNet5.Views.pdb
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\bin\Debug\net5.0\Azure.Identity.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\obj\Debug\net5.0\Bernardo - MVCNet5.csproj.AssemblyReference.cache
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\obj\Debug\net5.0\Bernardo - MVCNet5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\obj\Debug\net5.0\Bernardo - MVCNet5.AssemblyInfoInputs.cache
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\obj\Debug\net5.0\Bernardo - MVCNet5.AssemblyInfo.cs
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\obj\Debug\net5.0\Bernardo - MVCNet5.csproj.CoreCompileInputs.cache
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\obj\Debug\net5.0\Bernardo - MVCNet5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\obj\Debug\net5.0\Bernardo - MVCNet5.RazorAssemblyInfo.cache
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\obj\Debug\net5.0\Bernardo - MVCNet5.RazorAssemblyInfo.cs
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\obj\Debug\net5.0\staticwebassets\Bernardo - MVCNet5.StaticWebAssets.Manifest.cache
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\obj\Debug\net5.0\staticwebassets\Bernardo - MVCNet5.StaticWebAssets.xml
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\obj\Debug\net5.0\scopedcss\bundle\Bernardo - MVCNet5.styles.css
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\obj\Debug\net5.0\Bernardo - MVCNet5.TagHelpers.input.cache
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\obj\Debug\net5.0\Bernardo - MVCNet5.TagHelpers.output.cache
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\obj\Debug\net5.0\Bernardo - MVCNet5.RazorCoreGenerate.cache
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\obj\Debug\net5.0\Razor\Views\Album\List.cshtml.g.cs
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\obj\Debug\net5.0\Bernardo - MVCNet5.RazorTargetAssemblyInfo.cache
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\obj\Debug\net5.0\Bernardo - MVCNet5.RazorTargetAssemblyInfo.cs
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\obj\Debug\net5.0\Bernardo - MVCNet5.Views.pdb
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\obj\Debug\net5.0\Bernardo - MVCNet5.csproj.CopyComplete
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\obj\Debug\net5.0\Bernardo - MVCNet5.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\obj\Debug\net5.0\ref\Bernardo - MVCNet5.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\obj\Debug\net5.0\Bernardo - MVCNet5.pdb
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\obj\Debug\net5.0\Bernardo - MVCNet5.genruntimeconfig.cache
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\obj\Debug\net5.0\Razor\Views\Album\Add.cshtml.g.cs
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\2nd Term\ISPRGG2\Bernardo - MVCNet5\obj\Debug\net5.0\Razor\Views\Album\Edit.cshtml.g.cs
