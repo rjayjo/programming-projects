@@ -1,0 +1,50 @@
+C:\Users\kingr\source\repos\FOTIS1B_Bernardo_Kutsukawa_FMP\bin\Debug\FOTIS1B_Bernardo_Kutsukawa_FMP.exe.config
+C:\Users\kingr\source\repos\FOTIS1B_Bernardo_Kutsukawa_FMP\bin\Debug\FOTIS1B_Bernardo_Kutsukawa_FMP.exe
+C:\Users\kingr\source\repos\FOTIS1B_Bernardo_Kutsukawa_FMP\bin\Debug\FOTIS1B_Bernardo_Kutsukawa_FMP.pdb
+C:\Users\kingr\source\repos\FOTIS1B_Bernardo_Kutsukawa_FMP\obj\Debug\FOTIS1B_Bernardo_Kutsukawa_FMP.csproj.AssemblyReference.cache
+C:\Users\kingr\source\repos\FOTIS1B_Bernardo_Kutsukawa_FMP\obj\Debug\FOTIS1B_Bernardo_Kutsukawa_FMP.Form1.resources
+C:\Users\kingr\source\repos\FOTIS1B_Bernardo_Kutsukawa_FMP\obj\Debug\FOTIS1B_Bernardo_Kutsukawa_FMP.Properties.Resources.resources
+C:\Users\kingr\source\repos\FOTIS1B_Bernardo_Kutsukawa_FMP\obj\Debug\FOTIS1B_Bernardo_Kutsukawa_FMP.csproj.GenerateResource.cache
+C:\Users\kingr\source\repos\FOTIS1B_Bernardo_Kutsukawa_FMP\obj\Debug\FOTIS1B_Bernardo_Kutsukawa_FMP.csproj.CoreCompileInputs.cache
+C:\Users\kingr\source\repos\FOTIS1B_Bernardo_Kutsukawa_FMP\obj\Debug\FOTIS1B_Bernardo_Kutsukawa_FMP.exe
+C:\Users\kingr\source\repos\FOTIS1B_Bernardo_Kutsukawa_FMP\obj\Debug\FOTIS1B_Bernardo_Kutsukawa_FMP.pdb
+C:\Users\Gerard\Desktop\FOTIS1B_Bernardo_Kutsukawa_FMP\bin\Debug\FOTIS1B_Bernardo_Kutsukawa_FMP.exe.config
+C:\Users\Gerard\Desktop\FOTIS1B_Bernardo_Kutsukawa_FMP\bin\Debug\FOTIS1B_Bernardo_Kutsukawa_FMP.exe
+C:\Users\Gerard\Desktop\FOTIS1B_Bernardo_Kutsukawa_FMP\bin\Debug\FOTIS1B_Bernardo_Kutsukawa_FMP.pdb
+C:\Users\Gerard\Desktop\FOTIS1B_Bernardo_Kutsukawa_FMP\obj\Debug\FOTIS1B_Bernardo_Kutsukawa_FMP.csproj.AssemblyReference.cache
+C:\Users\Gerard\Desktop\FOTIS1B_Bernardo_Kutsukawa_FMP\obj\Debug\FOTIS1B_Bernardo_Kutsukawa_FMP.Form1.resources
+C:\Users\Gerard\Desktop\FOTIS1B_Bernardo_Kutsukawa_FMP\obj\Debug\FOTIS1B_Bernardo_Kutsukawa_FMP.Properties.Resources.resources
+C:\Users\Gerard\Desktop\FOTIS1B_Bernardo_Kutsukawa_FMP\obj\Debug\FOTIS1B_Bernardo_Kutsukawa_FMP.csproj.GenerateResource.cache
+C:\Users\Gerard\Desktop\FOTIS1B_Bernardo_Kutsukawa_FMP\obj\Debug\FOTIS1B_Bernardo_Kutsukawa_FMP.csproj.CoreCompileInputs.cache
+C:\Users\Gerard\Desktop\FOTIS1B_Bernardo_Kutsukawa_FMP\obj\Debug\FOTIS1B_Bernardo_Kutsukawa_FMP.exe
+C:\Users\Gerard\Desktop\FOTIS1B_Bernardo_Kutsukawa_FMP\obj\Debug\FOTIS1B_Bernardo_Kutsukawa_FMP.pdb
+C:\Users\kingr\Downloads\FOTIS1B_Bernardo_Kutsukawa_FMP - Copy\bin\Debug\FOTIS1B_Bernardo_Kutsukawa_FMP.exe.config
+C:\Users\kingr\Downloads\FOTIS1B_Bernardo_Kutsukawa_FMP - Copy\bin\Debug\FOTIS1B_Bernardo_Kutsukawa_FMP.exe
+C:\Users\kingr\Downloads\FOTIS1B_Bernardo_Kutsukawa_FMP - Copy\bin\Debug\FOTIS1B_Bernardo_Kutsukawa_FMP.pdb
+C:\Users\kingr\Downloads\FOTIS1B_Bernardo_Kutsukawa_FMP - Copy\obj\Debug\FOTIS1B_Bernardo_Kutsukawa_FMP.csproj.AssemblyReference.cache
+C:\Users\kingr\Downloads\FOTIS1B_Bernardo_Kutsukawa_FMP - Copy\obj\Debug\FOTIS1B_Bernardo_Kutsukawa_FMP.Form1.resources
+C:\Users\kingr\Downloads\FOTIS1B_Bernardo_Kutsukawa_FMP - Copy\obj\Debug\FOTIS1B_Bernardo_Kutsukawa_FMP.Properties.Resources.resources
+C:\Users\kingr\Downloads\FOTIS1B_Bernardo_Kutsukawa_FMP - Copy\obj\Debug\FOTIS1B_Bernardo_Kutsukawa_FMP.csproj.GenerateResource.cache
+C:\Users\kingr\Downloads\FOTIS1B_Bernardo_Kutsukawa_FMP - Copy\obj\Debug\FOTIS1B_Bernardo_Kutsukawa_FMP.csproj.CoreCompileInputs.cache
+C:\Users\kingr\Downloads\FOTIS1B_Bernardo_Kutsukawa_FMP - Copy\obj\Debug\FOTIS1B_Bernardo_Kutsukawa_FMP.exe
+C:\Users\kingr\Downloads\FOTIS1B_Bernardo_Kutsukawa_FMP - Copy\obj\Debug\FOTIS1B_Bernardo_Kutsukawa_FMP.pdb
+C:\Users\Gerard\Pictures\ISPRGG1 FMP\FOTIS1B_Bernardo_Kutsukawa_FMP - Copy\bin\Debug\FOTIS1B_Bernardo_Kutsukawa_FMP.exe.config
+C:\Users\Gerard\Pictures\ISPRGG1 FMP\FOTIS1B_Bernardo_Kutsukawa_FMP - Copy\bin\Debug\FOTIS1B_Bernardo_Kutsukawa_FMP.exe
+C:\Users\Gerard\Pictures\ISPRGG1 FMP\FOTIS1B_Bernardo_Kutsukawa_FMP - Copy\bin\Debug\FOTIS1B_Bernardo_Kutsukawa_FMP.pdb
+C:\Users\Gerard\Pictures\ISPRGG1 FMP\FOTIS1B_Bernardo_Kutsukawa_FMP - Copy\obj\Debug\FOTIS1B_Bernardo_Kutsukawa_FMP.csproj.AssemblyReference.cache
+C:\Users\Gerard\Pictures\ISPRGG1 FMP\FOTIS1B_Bernardo_Kutsukawa_FMP - Copy\obj\Debug\FOTIS1B_Bernardo_Kutsukawa_FMP.Form1.resources
+C:\Users\Gerard\Pictures\ISPRGG1 FMP\FOTIS1B_Bernardo_Kutsukawa_FMP - Copy\obj\Debug\FOTIS1B_Bernardo_Kutsukawa_FMP.Properties.Resources.resources
+C:\Users\Gerard\Pictures\ISPRGG1 FMP\FOTIS1B_Bernardo_Kutsukawa_FMP - Copy\obj\Debug\FOTIS1B_Bernardo_Kutsukawa_FMP.csproj.GenerateResource.cache
+C:\Users\Gerard\Pictures\ISPRGG1 FMP\FOTIS1B_Bernardo_Kutsukawa_FMP - Copy\obj\Debug\FOTIS1B_Bernardo_Kutsukawa_FMP.csproj.CoreCompileInputs.cache
+C:\Users\Gerard\Pictures\ISPRGG1 FMP\FOTIS1B_Bernardo_Kutsukawa_FMP - Copy\obj\Debug\FOTIS1B_Bernardo_Kutsukawa_FMP.exe
+C:\Users\Gerard\Pictures\ISPRGG1 FMP\FOTIS1B_Bernardo_Kutsukawa_FMP - Copy\obj\Debug\FOTIS1B_Bernardo_Kutsukawa_FMP.pdb
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_Kutsukawa_FMP\bin\Debug\FOTIS1B_Bernardo_Kutsukawa_FMP.exe.config
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_Kutsukawa_FMP\bin\Debug\FOTIS1B_Bernardo_Kutsukawa_FMP.exe
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_Kutsukawa_FMP\bin\Debug\FOTIS1B_Bernardo_Kutsukawa_FMP.pdb
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_Kutsukawa_FMP\obj\Debug\FOTIS1B_Bernardo_Kutsukawa_FMP.csproj.AssemblyReference.cache
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_Kutsukawa_FMP\obj\Debug\FOTIS1B_Bernardo_Kutsukawa_FMP.Form1.resources
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_Kutsukawa_FMP\obj\Debug\FOTIS1B_Bernardo_Kutsukawa_FMP.Properties.Resources.resources
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_Kutsukawa_FMP\obj\Debug\FOTIS1B_Bernardo_Kutsukawa_FMP.csproj.GenerateResource.cache
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_Kutsukawa_FMP\obj\Debug\FOTIS1B_Bernardo_Kutsukawa_FMP.csproj.CoreCompileInputs.cache
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_Kutsukawa_FMP\obj\Debug\FOTIS1B_Bernardo_Kutsukawa_FMP.exe
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_Kutsukawa_FMP\obj\Debug\FOTIS1B_Bernardo_Kutsukawa_FMP.pdb

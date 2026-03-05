@@ -1,0 +1,10 @@
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_Fibonacci\bin\Debug\FOTIS1B_Bernardo_Fibonacci.exe.config
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_Fibonacci\bin\Debug\FOTIS1B_Bernardo_Fibonacci.exe
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_Fibonacci\bin\Debug\FOTIS1B_Bernardo_Fibonacci.pdb
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_Fibonacci\obj\Debug\FOTIS1B_Bernardo_Fibonacci.csproj.AssemblyReference.cache
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_Fibonacci\obj\Debug\FOTIS1B_Bernardo_Fibonacci.Form1.resources
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_Fibonacci\obj\Debug\FOTIS1B_Bernardo_Fibonacci.Properties.Resources.resources
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_Fibonacci\obj\Debug\FOTIS1B_Bernardo_Fibonacci.csproj.GenerateResource.cache
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_Fibonacci\obj\Debug\FOTIS1B_Bernardo_Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_Fibonacci\obj\Debug\FOTIS1B_Bernardo_Fibonacci.exe
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_Fibonacci\obj\Debug\FOTIS1B_Bernardo_Fibonacci.pdb

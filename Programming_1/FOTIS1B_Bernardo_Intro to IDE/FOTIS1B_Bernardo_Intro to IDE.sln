@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FOTIS1B_Bernardo_Intro to IDE", "FOTIS1B_Bernardo_Intro to IDE.csproj", "{7AF7F5BA-8D81-4E78-816A-7E65B0A705FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AF7F5BA-8D81-4E78-816A-7E65B0A705FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AF7F5BA-8D81-4E78-816A-7E65B0A705FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AF7F5BA-8D81-4E78-816A-7E65B0A705FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AF7F5BA-8D81-4E78-816A-7E65B0A705FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DC572D0-6137-4CF9-881C-7B6AA90D511A}
+	EndGlobalSection
+EndGlobal

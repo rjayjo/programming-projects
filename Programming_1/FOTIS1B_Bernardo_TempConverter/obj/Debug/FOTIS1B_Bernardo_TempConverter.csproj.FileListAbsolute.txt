@@ -1,0 +1,10 @@
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_TempConverter\bin\Debug\FOTIS1B_Bernardo_TempConverter.exe.config
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_TempConverter\bin\Debug\FOTIS1B_Bernardo_TempConverter.exe
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_TempConverter\bin\Debug\FOTIS1B_Bernardo_TempConverter.pdb
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_TempConverter\obj\Debug\FOTIS1B_Bernardo_TempConverter.csproj.AssemblyReference.cache
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_TempConverter\obj\Debug\FOTIS1B_Bernardo_TempConverter.frmTempConverter.resources
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_TempConverter\obj\Debug\FOTIS1B_Bernardo_TempConverter.Properties.Resources.resources
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_TempConverter\obj\Debug\FOTIS1B_Bernardo_TempConverter.csproj.GenerateResource.cache
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_TempConverter\obj\Debug\FOTIS1B_Bernardo_TempConverter.csproj.CoreCompileInputs.cache
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_TempConverter\obj\Debug\FOTIS1B_Bernardo_TempConverter.exe
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_TempConverter\obj\Debug\FOTIS1B_Bernardo_TempConverter.pdb

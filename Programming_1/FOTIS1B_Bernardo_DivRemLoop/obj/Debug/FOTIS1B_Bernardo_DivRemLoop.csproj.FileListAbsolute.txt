@@ -1,0 +1,10 @@
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_DivRemLoop\bin\Debug\FOTIS1B_Bernardo_DivRemLoop.exe.config
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_DivRemLoop\bin\Debug\FOTIS1B_Bernardo_DivRemLoop.exe
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_DivRemLoop\bin\Debug\FOTIS1B_Bernardo_DivRemLoop.pdb
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_DivRemLoop\obj\Debug\FOTIS1B_Bernardo_DivRemLoop.csproj.AssemblyReference.cache
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_DivRemLoop\obj\Debug\FOTIS1B_Bernardo_DivRemLoop.Form1.resources
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_DivRemLoop\obj\Debug\FOTIS1B_Bernardo_DivRemLoop.Properties.Resources.resources
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_DivRemLoop\obj\Debug\FOTIS1B_Bernardo_DivRemLoop.csproj.GenerateResource.cache
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_DivRemLoop\obj\Debug\FOTIS1B_Bernardo_DivRemLoop.csproj.CoreCompileInputs.cache
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_DivRemLoop\obj\Debug\FOTIS1B_Bernardo_DivRemLoop.exe
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_DivRemLoop\obj\Debug\FOTIS1B_Bernardo_DivRemLoop.pdb

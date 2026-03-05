@@ -1,0 +1,10 @@
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_RussellJames_BEDP\bin\Debug\FOTIS1B_Bernardo_RussellJames_BEDP.exe.config
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_RussellJames_BEDP\bin\Debug\FOTIS1B_Bernardo_RussellJames_BEDP.exe
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_RussellJames_BEDP\bin\Debug\FOTIS1B_Bernardo_RussellJames_BEDP.pdb
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_RussellJames_BEDP\obj\Debug\FOTIS1B_Bernardo_RussellJames_BEDP.csproj.AssemblyReference.cache
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_RussellJames_BEDP\obj\Debug\FOTIS1B_Bernardo_RussellJames_BEDP.frmMain.resources
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_RussellJames_BEDP\obj\Debug\FOTIS1B_Bernardo_RussellJames_BEDP.Properties.Resources.resources
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_RussellJames_BEDP\obj\Debug\FOTIS1B_Bernardo_RussellJames_BEDP.csproj.GenerateResource.cache
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_RussellJames_BEDP\obj\Debug\FOTIS1B_Bernardo_RussellJames_BEDP.csproj.CoreCompileInputs.cache
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_RussellJames_BEDP\obj\Debug\FOTIS1B_Bernardo_RussellJames_BEDP.exe
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_RussellJames_BEDP\obj\Debug\FOTIS1B_Bernardo_RussellJames_BEDP.pdb

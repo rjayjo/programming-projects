@@ -1,0 +1,7 @@
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_Game Title Screen\bin\Debug\FOTIS1B_Bernardo_Game Title Screen.exe.config
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_Game Title Screen\bin\Debug\FOTIS1B_Bernardo_Game Title Screen.exe
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_Game Title Screen\bin\Debug\FOTIS1B_Bernardo_Game Title Screen.pdb
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_Game Title Screen\obj\Debug\FOTIS1B_Bernardo_Game Title Screen.csproj.AssemblyReference.cache
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_Game Title Screen\obj\Debug\FOTIS1B_Bernardo_Game Title Screen.csproj.CoreCompileInputs.cache
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_Game Title Screen\obj\Debug\FOTIS1B_Bernardo_Game Title Screen.exe
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_Game Title Screen\obj\Debug\FOTIS1B_Bernardo_Game Title Screen.pdb

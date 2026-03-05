@@ -1,0 +1,7 @@
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_MidtermMP\obj\Debug\FOTIS1B_Bernardo_MidtermMP.csproj.AssemblyReference.cache
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_MidtermMP\obj\Debug\FOTIS1B_Bernardo_MidtermMP.csproj.CoreCompileInputs.cache
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_MidtermMP\bin\Debug\FOTIS1B_Bernardo_MidtermMP.exe.config
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_MidtermMP\bin\Debug\FOTIS1B_Bernardo_MidtermMP.exe
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_MidtermMP\bin\Debug\FOTIS1B_Bernardo_MidtermMP.pdb
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_MidtermMP\obj\Debug\FOTIS1B_Bernardo_MidtermMP.exe
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_MidtermMP\obj\Debug\FOTIS1B_Bernardo_MidtermMP.pdb

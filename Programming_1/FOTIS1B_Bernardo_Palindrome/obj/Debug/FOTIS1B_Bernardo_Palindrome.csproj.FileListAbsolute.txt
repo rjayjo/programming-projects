@@ -1,0 +1,10 @@
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_Palindrome\bin\Debug\FOTIS1B_Bernardo_Palindrome.exe.config
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_Palindrome\bin\Debug\FOTIS1B_Bernardo_Palindrome.exe
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_Palindrome\bin\Debug\FOTIS1B_Bernardo_Palindrome.pdb
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_Palindrome\obj\Debug\FOTIS1B_Bernardo_Palindrome.csproj.AssemblyReference.cache
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_Palindrome\obj\Debug\FOTIS1B_Bernardo_Palindrome.Form1.resources
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_Palindrome\obj\Debug\FOTIS1B_Bernardo_Palindrome.Properties.Resources.resources
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_Palindrome\obj\Debug\FOTIS1B_Bernardo_Palindrome.csproj.GenerateResource.cache
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_Palindrome\obj\Debug\FOTIS1B_Bernardo_Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_Palindrome\obj\Debug\FOTIS1B_Bernardo_Palindrome.exe
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_Palindrome\obj\Debug\FOTIS1B_Bernardo_Palindrome.pdb

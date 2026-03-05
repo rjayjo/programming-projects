@@ -1,0 +1,10 @@
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_Quadrants\bin\Debug\FOTIS1B_Bernardo_Quadrants.exe.config
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_Quadrants\bin\Debug\FOTIS1B_Bernardo_Quadrants.exe
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_Quadrants\bin\Debug\FOTIS1B_Bernardo_Quadrants.pdb
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_Quadrants\obj\Debug\FOTIS1B_Bernardo_Quadrants.csproj.AssemblyReference.cache
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_Quadrants\obj\Debug\FOTIS1B_Bernardo_Quadrants.Properties.Resources.resources
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_Quadrants\obj\Debug\FOTIS1B_Bernardo_Quadrants.csproj.GenerateResource.cache
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_Quadrants\obj\Debug\FOTIS1B_Bernardo_Quadrants.csproj.CoreCompileInputs.cache
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_Quadrants\obj\Debug\FOTIS1B_Bernardo_Quadrants.exe
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_Quadrants\obj\Debug\FOTIS1B_Bernardo_Quadrants.pdb
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_Quadrants\obj\Debug\FOTIS1B_Bernardo_Quadrants.Form1.resources

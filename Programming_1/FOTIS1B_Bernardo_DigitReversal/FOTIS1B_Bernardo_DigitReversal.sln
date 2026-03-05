@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FOTIS1B_Bernardo_DigitReversal", "FOTIS1B_Bernardo_DigitReversal.csproj", "{E63B9FA2-47E3-4E7A-A428-25A7FD1E99BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E63B9FA2-47E3-4E7A-A428-25A7FD1E99BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E63B9FA2-47E3-4E7A-A428-25A7FD1E99BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E63B9FA2-47E3-4E7A-A428-25A7FD1E99BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E63B9FA2-47E3-4E7A-A428-25A7FD1E99BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA1274E0-FB51-4E21-95B9-18E88E5695A4}
+	EndGlobalSection
+EndGlobal

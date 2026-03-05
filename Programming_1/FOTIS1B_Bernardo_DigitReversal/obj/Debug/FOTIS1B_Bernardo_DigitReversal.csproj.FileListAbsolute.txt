@@ -1,0 +1,10 @@
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_DigitReversal\obj\Debug\FOTIS1B_Bernardo_DigitReversal.csproj.AssemblyReference.cache
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_DigitReversal\obj\Debug\FOTIS1B_Bernardo_DigitReversal.frmDRC.resources
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_DigitReversal\obj\Debug\FOTIS1B_Bernardo_DigitReversal.Properties.Resources.resources
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_DigitReversal\obj\Debug\FOTIS1B_Bernardo_DigitReversal.csproj.GenerateResource.cache
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_DigitReversal\obj\Debug\FOTIS1B_Bernardo_DigitReversal.csproj.CoreCompileInputs.cache
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_DigitReversal\bin\Debug\FOTIS1B_Bernardo_DigitReversal.exe.config
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_DigitReversal\bin\Debug\FOTIS1B_Bernardo_DigitReversal.exe
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_DigitReversal\bin\Debug\FOTIS1B_Bernardo_DigitReversal.pdb
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_DigitReversal\obj\Debug\FOTIS1B_Bernardo_DigitReversal.exe
+C:\Users\kingr\OneDrive\Documents\FOTIS 1\ISPRGG1\FOTIS1B_Bernardo_DigitReversal\obj\Debug\FOTIS1B_Bernardo_DigitReversal.pdb
