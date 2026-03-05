@@ -1,0 +1,15 @@
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Dictionary\Bernardo - Dictionary\bin\Debug\net6.0\Bernardo - Dictionary.exe
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Dictionary\Bernardo - Dictionary\bin\Debug\net6.0\Bernardo - Dictionary.deps.json
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Dictionary\Bernardo - Dictionary\bin\Debug\net6.0\Bernardo - Dictionary.runtimeconfig.json
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Dictionary\Bernardo - Dictionary\bin\Debug\net6.0\Bernardo - Dictionary.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Dictionary\Bernardo - Dictionary\bin\Debug\net6.0\Bernardo - Dictionary.pdb
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Dictionary\Bernardo - Dictionary\obj\Debug\net6.0\Bernardo - Dictionary.csproj.AssemblyReference.cache
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Dictionary\Bernardo - Dictionary\obj\Debug\net6.0\Bernardo - Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Dictionary\Bernardo - Dictionary\obj\Debug\net6.0\Bernardo - Dictionary.AssemblyInfoInputs.cache
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Dictionary\Bernardo - Dictionary\obj\Debug\net6.0\Bernardo - Dictionary.AssemblyInfo.cs
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Dictionary\Bernardo - Dictionary\obj\Debug\net6.0\Bernardo - Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Dictionary\Bernardo - Dictionary\obj\Debug\net6.0\Bernardo - Dictionary.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Dictionary\Bernardo - Dictionary\obj\Debug\net6.0\refint\Bernardo - Dictionary.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Dictionary\Bernardo - Dictionary\obj\Debug\net6.0\Bernardo - Dictionary.pdb
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Dictionary\Bernardo - Dictionary\obj\Debug\net6.0\Bernardo - Dictionary.genruntimeconfig.cache
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Dictionary\Bernardo - Dictionary\obj\Debug\net6.0\ref\Bernardo - Dictionary.dll

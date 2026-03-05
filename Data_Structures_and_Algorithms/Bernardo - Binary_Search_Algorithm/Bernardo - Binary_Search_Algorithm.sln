@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bernardo - Binary_Search_Algorithm", "Bernardo - Binary_Search_Algorithm.csproj", "{73FF3B9C-91DB-4396-BE4E-36E9FFDDA5F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73FF3B9C-91DB-4396-BE4E-36E9FFDDA5F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73FF3B9C-91DB-4396-BE4E-36E9FFDDA5F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73FF3B9C-91DB-4396-BE4E-36E9FFDDA5F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73FF3B9C-91DB-4396-BE4E-36E9FFDDA5F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42313D30-9D72-4FBE-AA58-34B107FA75C0}
+	EndGlobalSection
+EndGlobal

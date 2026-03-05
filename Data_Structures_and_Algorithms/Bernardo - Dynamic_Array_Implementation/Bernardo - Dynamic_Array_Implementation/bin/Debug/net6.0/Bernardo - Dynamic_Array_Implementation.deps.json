@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Bernardo - Dynamic_Array_Implementation/1.0.0": {
+        "runtime": {
+          "Bernardo - Dynamic_Array_Implementation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bernardo - Dynamic_Array_Implementation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

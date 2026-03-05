@@ -1,0 +1,30 @@
+C:\Users\kingr\Downloads\Bernardo - Queue_Application\Bernardo - Queue_Application\bin\Debug\net6.0\Bernardo - Queue_Application.exe
+C:\Users\kingr\Downloads\Bernardo - Queue_Application\Bernardo - Queue_Application\bin\Debug\net6.0\Bernardo - Queue_Application.deps.json
+C:\Users\kingr\Downloads\Bernardo - Queue_Application\Bernardo - Queue_Application\bin\Debug\net6.0\Bernardo - Queue_Application.runtimeconfig.json
+C:\Users\kingr\Downloads\Bernardo - Queue_Application\Bernardo - Queue_Application\bin\Debug\net6.0\Bernardo - Queue_Application.dll
+C:\Users\kingr\Downloads\Bernardo - Queue_Application\Bernardo - Queue_Application\bin\Debug\net6.0\Bernardo - Queue_Application.pdb
+C:\Users\kingr\Downloads\Bernardo - Queue_Application\Bernardo - Queue_Application\obj\Debug\net6.0\Bernardo - Queue_Application.csproj.AssemblyReference.cache
+C:\Users\kingr\Downloads\Bernardo - Queue_Application\Bernardo - Queue_Application\obj\Debug\net6.0\Bernardo - Queue_Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kingr\Downloads\Bernardo - Queue_Application\Bernardo - Queue_Application\obj\Debug\net6.0\Bernardo - Queue_Application.AssemblyInfoInputs.cache
+C:\Users\kingr\Downloads\Bernardo - Queue_Application\Bernardo - Queue_Application\obj\Debug\net6.0\Bernardo - Queue_Application.AssemblyInfo.cs
+C:\Users\kingr\Downloads\Bernardo - Queue_Application\Bernardo - Queue_Application\obj\Debug\net6.0\Bernardo - Queue_Application.csproj.CoreCompileInputs.cache
+C:\Users\kingr\Downloads\Bernardo - Queue_Application\Bernardo - Queue_Application\obj\Debug\net6.0\Bernardo - Queue_Application.dll
+C:\Users\kingr\Downloads\Bernardo - Queue_Application\Bernardo - Queue_Application\obj\Debug\net6.0\refint\Bernardo - Queue_Application.dll
+C:\Users\kingr\Downloads\Bernardo - Queue_Application\Bernardo - Queue_Application\obj\Debug\net6.0\Bernardo - Queue_Application.pdb
+C:\Users\kingr\Downloads\Bernardo - Queue_Application\Bernardo - Queue_Application\obj\Debug\net6.0\Bernardo - Queue_Application.genruntimeconfig.cache
+C:\Users\kingr\Downloads\Bernardo - Queue_Application\Bernardo - Queue_Application\obj\Debug\net6.0\ref\Bernardo - Queue_Application.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Queue_Application\Bernardo - Queue_Application\bin\Debug\net6.0\Bernardo - Queue_Application.exe
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Queue_Application\Bernardo - Queue_Application\bin\Debug\net6.0\Bernardo - Queue_Application.deps.json
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Queue_Application\Bernardo - Queue_Application\bin\Debug\net6.0\Bernardo - Queue_Application.runtimeconfig.json
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Queue_Application\Bernardo - Queue_Application\bin\Debug\net6.0\Bernardo - Queue_Application.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Queue_Application\Bernardo - Queue_Application\bin\Debug\net6.0\Bernardo - Queue_Application.pdb
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Queue_Application\Bernardo - Queue_Application\obj\Debug\net6.0\Bernardo - Queue_Application.csproj.AssemblyReference.cache
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Queue_Application\Bernardo - Queue_Application\obj\Debug\net6.0\Bernardo - Queue_Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Queue_Application\Bernardo - Queue_Application\obj\Debug\net6.0\Bernardo - Queue_Application.AssemblyInfoInputs.cache
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Queue_Application\Bernardo - Queue_Application\obj\Debug\net6.0\Bernardo - Queue_Application.AssemblyInfo.cs
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Queue_Application\Bernardo - Queue_Application\obj\Debug\net6.0\Bernardo - Queue_Application.csproj.CoreCompileInputs.cache
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Queue_Application\Bernardo - Queue_Application\obj\Debug\net6.0\Bernardo - Queue_Application.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Queue_Application\Bernardo - Queue_Application\obj\Debug\net6.0\refint\Bernardo - Queue_Application.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Queue_Application\Bernardo - Queue_Application\obj\Debug\net6.0\Bernardo - Queue_Application.pdb
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Queue_Application\Bernardo - Queue_Application\obj\Debug\net6.0\Bernardo - Queue_Application.genruntimeconfig.cache
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Queue_Application\Bernardo - Queue_Application\obj\Debug\net6.0\ref\Bernardo - Queue_Application.dll

@@ -1,0 +1,30 @@
+C:\Users\kingr\Downloads\Bernardo - Stack_Implementation\Bernardo - Stack_Implementation\bin\Debug\net6.0\Bernardo - Stack_Implementation.exe
+C:\Users\kingr\Downloads\Bernardo - Stack_Implementation\Bernardo - Stack_Implementation\bin\Debug\net6.0\Bernardo - Stack_Implementation.deps.json
+C:\Users\kingr\Downloads\Bernardo - Stack_Implementation\Bernardo - Stack_Implementation\bin\Debug\net6.0\Bernardo - Stack_Implementation.runtimeconfig.json
+C:\Users\kingr\Downloads\Bernardo - Stack_Implementation\Bernardo - Stack_Implementation\bin\Debug\net6.0\Bernardo - Stack_Implementation.dll
+C:\Users\kingr\Downloads\Bernardo - Stack_Implementation\Bernardo - Stack_Implementation\bin\Debug\net6.0\Bernardo - Stack_Implementation.pdb
+C:\Users\kingr\Downloads\Bernardo - Stack_Implementation\Bernardo - Stack_Implementation\obj\Debug\net6.0\Bernardo - Stack_Implementation.csproj.AssemblyReference.cache
+C:\Users\kingr\Downloads\Bernardo - Stack_Implementation\Bernardo - Stack_Implementation\obj\Debug\net6.0\Bernardo - Stack_Implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kingr\Downloads\Bernardo - Stack_Implementation\Bernardo - Stack_Implementation\obj\Debug\net6.0\Bernardo - Stack_Implementation.AssemblyInfoInputs.cache
+C:\Users\kingr\Downloads\Bernardo - Stack_Implementation\Bernardo - Stack_Implementation\obj\Debug\net6.0\Bernardo - Stack_Implementation.AssemblyInfo.cs
+C:\Users\kingr\Downloads\Bernardo - Stack_Implementation\Bernardo - Stack_Implementation\obj\Debug\net6.0\Bernardo - Stack_Implementation.csproj.CoreCompileInputs.cache
+C:\Users\kingr\Downloads\Bernardo - Stack_Implementation\Bernardo - Stack_Implementation\obj\Debug\net6.0\Bernardo - Stack_Implementation.dll
+C:\Users\kingr\Downloads\Bernardo - Stack_Implementation\Bernardo - Stack_Implementation\obj\Debug\net6.0\refint\Bernardo - Stack_Implementation.dll
+C:\Users\kingr\Downloads\Bernardo - Stack_Implementation\Bernardo - Stack_Implementation\obj\Debug\net6.0\Bernardo - Stack_Implementation.pdb
+C:\Users\kingr\Downloads\Bernardo - Stack_Implementation\Bernardo - Stack_Implementation\obj\Debug\net6.0\Bernardo - Stack_Implementation.genruntimeconfig.cache
+C:\Users\kingr\Downloads\Bernardo - Stack_Implementation\Bernardo - Stack_Implementation\obj\Debug\net6.0\ref\Bernardo - Stack_Implementation.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Stack_Implementation\Bernardo - Stack_Implementation\bin\Debug\net6.0\Bernardo - Stack_Implementation.exe
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Stack_Implementation\Bernardo - Stack_Implementation\bin\Debug\net6.0\Bernardo - Stack_Implementation.deps.json
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Stack_Implementation\Bernardo - Stack_Implementation\bin\Debug\net6.0\Bernardo - Stack_Implementation.runtimeconfig.json
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Stack_Implementation\Bernardo - Stack_Implementation\bin\Debug\net6.0\Bernardo - Stack_Implementation.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Stack_Implementation\Bernardo - Stack_Implementation\bin\Debug\net6.0\Bernardo - Stack_Implementation.pdb
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Stack_Implementation\Bernardo - Stack_Implementation\obj\Debug\net6.0\Bernardo - Stack_Implementation.csproj.AssemblyReference.cache
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Stack_Implementation\Bernardo - Stack_Implementation\obj\Debug\net6.0\Bernardo - Stack_Implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Stack_Implementation\Bernardo - Stack_Implementation\obj\Debug\net6.0\Bernardo - Stack_Implementation.AssemblyInfoInputs.cache
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Stack_Implementation\Bernardo - Stack_Implementation\obj\Debug\net6.0\Bernardo - Stack_Implementation.AssemblyInfo.cs
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Stack_Implementation\Bernardo - Stack_Implementation\obj\Debug\net6.0\Bernardo - Stack_Implementation.csproj.CoreCompileInputs.cache
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Stack_Implementation\Bernardo - Stack_Implementation\obj\Debug\net6.0\Bernardo - Stack_Implementation.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Stack_Implementation\Bernardo - Stack_Implementation\obj\Debug\net6.0\refint\Bernardo - Stack_Implementation.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Stack_Implementation\Bernardo - Stack_Implementation\obj\Debug\net6.0\Bernardo - Stack_Implementation.pdb
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Stack_Implementation\Bernardo - Stack_Implementation\obj\Debug\net6.0\Bernardo - Stack_Implementation.genruntimeconfig.cache
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Stack_Implementation\Bernardo - Stack_Implementation\obj\Debug\net6.0\ref\Bernardo - Stack_Implementation.dll

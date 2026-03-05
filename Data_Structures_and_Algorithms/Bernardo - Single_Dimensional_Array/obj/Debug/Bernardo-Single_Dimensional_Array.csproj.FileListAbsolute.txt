@@ -1,0 +1,7 @@
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo-Single_Dimensional_Array\bin\Debug\Bernardo-Single_Dimensional_Array.exe.config
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo-Single_Dimensional_Array\bin\Debug\Bernardo-Single_Dimensional_Array.exe
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo-Single_Dimensional_Array\bin\Debug\Bernardo-Single_Dimensional_Array.pdb
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo-Single_Dimensional_Array\obj\Debug\Bernardo-Single_Dimensional_Array.csproj.AssemblyReference.cache
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo-Single_Dimensional_Array\obj\Debug\Bernardo-Single_Dimensional_Array.csproj.CoreCompileInputs.cache
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo-Single_Dimensional_Array\obj\Debug\Bernardo-Single_Dimensional_Array.exe
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo-Single_Dimensional_Array\obj\Debug\Bernardo-Single_Dimensional_Array.pdb

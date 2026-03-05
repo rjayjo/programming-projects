@@ -1,0 +1,30 @@
+C:\Users\kingr\Downloads\Bernardo - Dynamic_Array_Implementation\Bernardo - Dynamic_Array_Implementation\bin\Debug\net6.0\Bernardo - Dynamic_Array_Implementation.exe
+C:\Users\kingr\Downloads\Bernardo - Dynamic_Array_Implementation\Bernardo - Dynamic_Array_Implementation\bin\Debug\net6.0\Bernardo - Dynamic_Array_Implementation.deps.json
+C:\Users\kingr\Downloads\Bernardo - Dynamic_Array_Implementation\Bernardo - Dynamic_Array_Implementation\bin\Debug\net6.0\Bernardo - Dynamic_Array_Implementation.runtimeconfig.json
+C:\Users\kingr\Downloads\Bernardo - Dynamic_Array_Implementation\Bernardo - Dynamic_Array_Implementation\bin\Debug\net6.0\Bernardo - Dynamic_Array_Implementation.dll
+C:\Users\kingr\Downloads\Bernardo - Dynamic_Array_Implementation\Bernardo - Dynamic_Array_Implementation\bin\Debug\net6.0\Bernardo - Dynamic_Array_Implementation.pdb
+C:\Users\kingr\Downloads\Bernardo - Dynamic_Array_Implementation\Bernardo - Dynamic_Array_Implementation\obj\Debug\net6.0\Bernardo - Dynamic_Array_Implementation.csproj.AssemblyReference.cache
+C:\Users\kingr\Downloads\Bernardo - Dynamic_Array_Implementation\Bernardo - Dynamic_Array_Implementation\obj\Debug\net6.0\Bernardo - Dynamic_Array_Implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kingr\Downloads\Bernardo - Dynamic_Array_Implementation\Bernardo - Dynamic_Array_Implementation\obj\Debug\net6.0\Bernardo - Dynamic_Array_Implementation.AssemblyInfoInputs.cache
+C:\Users\kingr\Downloads\Bernardo - Dynamic_Array_Implementation\Bernardo - Dynamic_Array_Implementation\obj\Debug\net6.0\Bernardo - Dynamic_Array_Implementation.AssemblyInfo.cs
+C:\Users\kingr\Downloads\Bernardo - Dynamic_Array_Implementation\Bernardo - Dynamic_Array_Implementation\obj\Debug\net6.0\Bernardo - Dynamic_Array_Implementation.csproj.CoreCompileInputs.cache
+C:\Users\kingr\Downloads\Bernardo - Dynamic_Array_Implementation\Bernardo - Dynamic_Array_Implementation\obj\Debug\net6.0\Bernardo - Dynamic_Array_Implementation.dll
+C:\Users\kingr\Downloads\Bernardo - Dynamic_Array_Implementation\Bernardo - Dynamic_Array_Implementation\obj\Debug\net6.0\refint\Bernardo - Dynamic_Array_Implementation.dll
+C:\Users\kingr\Downloads\Bernardo - Dynamic_Array_Implementation\Bernardo - Dynamic_Array_Implementation\obj\Debug\net6.0\Bernardo - Dynamic_Array_Implementation.pdb
+C:\Users\kingr\Downloads\Bernardo - Dynamic_Array_Implementation\Bernardo - Dynamic_Array_Implementation\obj\Debug\net6.0\Bernardo - Dynamic_Array_Implementation.genruntimeconfig.cache
+C:\Users\kingr\Downloads\Bernardo - Dynamic_Array_Implementation\Bernardo - Dynamic_Array_Implementation\obj\Debug\net6.0\ref\Bernardo - Dynamic_Array_Implementation.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Dynamic_Array_Implementation\Bernardo - Dynamic_Array_Implementation\bin\Debug\net6.0\Bernardo - Dynamic_Array_Implementation.exe
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Dynamic_Array_Implementation\Bernardo - Dynamic_Array_Implementation\bin\Debug\net6.0\Bernardo - Dynamic_Array_Implementation.deps.json
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Dynamic_Array_Implementation\Bernardo - Dynamic_Array_Implementation\bin\Debug\net6.0\Bernardo - Dynamic_Array_Implementation.runtimeconfig.json
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Dynamic_Array_Implementation\Bernardo - Dynamic_Array_Implementation\bin\Debug\net6.0\Bernardo - Dynamic_Array_Implementation.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Dynamic_Array_Implementation\Bernardo - Dynamic_Array_Implementation\bin\Debug\net6.0\Bernardo - Dynamic_Array_Implementation.pdb
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Dynamic_Array_Implementation\Bernardo - Dynamic_Array_Implementation\obj\Debug\net6.0\Bernardo - Dynamic_Array_Implementation.csproj.AssemblyReference.cache
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Dynamic_Array_Implementation\Bernardo - Dynamic_Array_Implementation\obj\Debug\net6.0\Bernardo - Dynamic_Array_Implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Dynamic_Array_Implementation\Bernardo - Dynamic_Array_Implementation\obj\Debug\net6.0\Bernardo - Dynamic_Array_Implementation.AssemblyInfoInputs.cache
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Dynamic_Array_Implementation\Bernardo - Dynamic_Array_Implementation\obj\Debug\net6.0\Bernardo - Dynamic_Array_Implementation.AssemblyInfo.cs
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Dynamic_Array_Implementation\Bernardo - Dynamic_Array_Implementation\obj\Debug\net6.0\Bernardo - Dynamic_Array_Implementation.csproj.CoreCompileInputs.cache
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Dynamic_Array_Implementation\Bernardo - Dynamic_Array_Implementation\obj\Debug\net6.0\Bernardo - Dynamic_Array_Implementation.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Dynamic_Array_Implementation\Bernardo - Dynamic_Array_Implementation\obj\Debug\net6.0\refint\Bernardo - Dynamic_Array_Implementation.dll
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Dynamic_Array_Implementation\Bernardo - Dynamic_Array_Implementation\obj\Debug\net6.0\Bernardo - Dynamic_Array_Implementation.pdb
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Dynamic_Array_Implementation\Bernardo - Dynamic_Array_Implementation\obj\Debug\net6.0\Bernardo - Dynamic_Array_Implementation.genruntimeconfig.cache
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Dynamic_Array_Implementation\Bernardo - Dynamic_Array_Implementation\obj\Debug\net6.0\ref\Bernardo - Dynamic_Array_Implementation.dll

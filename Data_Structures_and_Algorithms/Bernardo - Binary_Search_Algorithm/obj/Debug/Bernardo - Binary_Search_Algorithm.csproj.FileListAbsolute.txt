@@ -1,0 +1,7 @@
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Binary_Search_Algorithm\bin\Debug\Bernardo - Binary_Search_Algorithm.exe.config
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Binary_Search_Algorithm\bin\Debug\Bernardo - Binary_Search_Algorithm.exe
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Binary_Search_Algorithm\bin\Debug\Bernardo - Binary_Search_Algorithm.pdb
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Binary_Search_Algorithm\obj\Debug\Bernardo - Binary_Search_Algorithm.csproj.AssemblyReference.cache
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Binary_Search_Algorithm\obj\Debug\Bernardo - Binary_Search_Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Binary_Search_Algorithm\obj\Debug\Bernardo - Binary_Search_Algorithm.exe
+C:\Users\kingr\OneDrive\Desktop\FOTIS 1\3rd Term\DSTALGO\Bernardo - Binary_Search_Algorithm\obj\Debug\Bernardo - Binary_Search_Algorithm.pdb

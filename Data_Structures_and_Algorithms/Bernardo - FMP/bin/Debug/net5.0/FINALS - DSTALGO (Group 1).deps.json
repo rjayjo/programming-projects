@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FINALS - DSTALGO (Group 1)/1.0.0": {
+        "runtime": {
+          "FINALS - DSTALGO (Group 1).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FINALS - DSTALGO (Group 1)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

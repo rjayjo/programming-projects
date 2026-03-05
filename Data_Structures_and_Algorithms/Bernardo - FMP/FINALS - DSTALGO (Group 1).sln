@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FINALS - DSTALGO (Group 1)", "FINALS - DSTALGO (Group 1).csproj", "{76338F10-A67F-432C-9311-94ECB55C5221}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76338F10-A67F-432C-9311-94ECB55C5221}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76338F10-A67F-432C-9311-94ECB55C5221}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76338F10-A67F-432C-9311-94ECB55C5221}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76338F10-A67F-432C-9311-94ECB55C5221}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CDFE098-0F69-4D78-BCAC-578E92C58E7F}
+	EndGlobalSection
+EndGlobal
