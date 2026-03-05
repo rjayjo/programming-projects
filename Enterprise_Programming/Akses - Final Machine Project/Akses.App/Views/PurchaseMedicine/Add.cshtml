@@ -1,0 +1,45 @@
+﻿@model PurchaseOrderVM
+
+<partial name="_PurchaseHeading" model="Model"/>
+<hr />
+
+<form id="frmOrder" asp-controller="PurchaseMedicine" asp-action="Create" method="post">
+
+    <div asp-validation-summary="All" class="text-danger"></div>
+
+    <partial name="_PurchaseHeader" model="Model"/>
+    <hr />
+
+    <partial name="_OrderDetails" model="Model" />
+    
+    <div class="text-end">
+        <a asp-controller="PurchaseMedicine" asp-action="Index"
+            class="btn btn-secondary">
+            <i class="fas fa-arrow-left"></i>
+            Back
+        </a>
+
+        <button type="btnSubmitOrder" class="btn btn-success">
+            <i class="fas fa-save"></i>
+            Submit Order
+        </button>
+    </div> 
+
+</form>
+
+@section Scripts {
+    <script>
+        $('#btnSubmitOrder').click(function(e) {
+            swal({
+                title: "Submit Order",
+                text: "Would you like to submit this Order?",
+                icon: "info",
+                buttons: true,            
+            }).then(ok => { 
+                if (ok) {
+                    $('#frmOrder').submit();
+                }
+            })
+        });
+    </script>
+}

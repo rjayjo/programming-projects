@@ -1,0 +1,34 @@
+﻿@model MedicineInventoryVM
+
+<h3>Edit Supplier</h3>
+
+<form asp-controller="MedicineInventory" asp-action="Edit" method="post">
+    <div asp-validation-summary="All" class="text-danger"> </div>
+    <input type="hidden" asp-for="MedicineID" />
+   
+    <label asp-for="MedicineName"></label>
+    <input type="text" asp-for="MedicineName" class="form-control" />
+    <br />
+
+    <label asp-for="MFGDate"></label>
+    <input type="date" asp-for="MFGDate" class="form-control" />
+    <br />
+
+    <label asp-for="ExpiryDate"></label>
+    <input type="date" asp-for="ExpiryDate" class="form-control" />
+    <br />
+
+    <label asp-for="Price"></label>
+    <input type="text" asp-for="Price" class="form-control" />
+    <br />
+
+     <label asp-for="Quantity"></label>
+    <input type="text" asp-for="Quantity" class="form-control" />
+    <br />
+
+
+    <a asp-controller="MedicineInventory" asp-action="Index" class="btn btn-primary">
+        Back
+    </a>
+    <input type="submit" class="btn btn-success" value="Save Changes" />
+</form>

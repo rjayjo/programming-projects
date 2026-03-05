@@ -1,0 +1,31 @@
+﻿@model SignInVM
+
+<h3>AKSES Administrator Sign-In</h3>
+
+<form asp-controller="Account" asp-action="SignIn" 
+        asp-route-returnUrl="@Model.ReturnUrl", method="post">
+
+    <div asp-validation-summary="All" class="text-danger"></div>
+
+    <label asp-for="Username"></label>
+    <input asp-for="Username" />
+    <br /> <br />
+
+    <label asp-for="Password"></label>
+    <input asp-for="Password" />
+    <br /> <br />
+
+    <a asp-action="Index" asp-controller="Home" class="btn btn-light">
+    Back to Homepage
+    </a>
+
+    <input type="submit" class="btn btn-success" value="Log-In" />
+
+    
+<br />
+<br />
+</form>
+
+Don't have an account? <a asp-controller="Account" asp-action="Register">
+    Register here
+</a>

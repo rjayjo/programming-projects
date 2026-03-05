@@ -1,0 +1,38 @@
+﻿@model Expenses
+
+
+<form asp-controller="Expenses" asp-action="Add" method="post"> 
+ 
+    <label asp-for="MonthAndYear"> </label>
+    <input type="month" asp-for="MonthAndYear" class="form-control" />
+    <br/>
+
+
+    <label asp-for="RestockTotalPrice"> </label>
+    <input type="text" asp-for="RestockTotalPrice" class="form-control" />
+    <br/>
+
+
+    <label asp-for="ElectricityBill"> </label>
+    <input type="text" asp-for="ElectricityBill" class="form-control" />
+    <br/>
+
+    <label asp-for="WaterBill"> </label>
+    <input type="text" asp-for="WaterBill" class="form-control" />
+    <br/>
+
+    <label asp-for="WorkersSalaries"> </label>
+    <input type="text" asp-for="WorkersSalaries" class="form-control" />
+    <br/>
+
+
+    
+    
+    <a asp-controller="Expenses" asp-action="Index" class="btn btn-primary">
+    Back
+
+    </a>
+    <input type="submit" value="Add Expenses Entry" class="btn btn-success" />
+
+
+</form>

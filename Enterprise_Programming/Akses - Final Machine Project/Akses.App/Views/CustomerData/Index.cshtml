@@ -1,0 +1,81 @@
+﻿@model List<CustomerVM>
+
+<a asp-controller="Home" asp-action="Index" class="btn btn-primary">
+    <i class="fas fa-solid fa-house"></i>
+    Back to Homepage
+</a>
+
+@if (Model.Count() < 1)
+{
+    <div class="alert alear-info">
+        No Item Record Found
+    </div>
+}
+else
+{
+    <table class="table table-striped table-hover" id="CustomerInventoryTable">
+                <thead> 
+                    <tr>
+                       
+                        <th>Name</th>
+                        <th>Contact No</th>
+                        <th></th>
+                    
+                   
+                        
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                {
+                    <tr>
+                        <td> @item.Name</td>
+                        <td> @item.ContactNo</td>
+                        
+                            
+                            <td>
+                               <a asp-controller="CustomerData" asp-action="Edit" asp-route-id="@item.CustomerID" class="btn btn-info">
+                                  <i class="fas fa-edit"></i>
+                                Edit
+                                </a>                             
+                              <button class="btn btn-danger deleteBtn" data-id="@item.CustomerID">
+                                  <i class="fas fa-trash"></i>
+                                  Delete
+                              </button>
+                           
+                          </td>
+                    </tr>
+                }
+                </tbody>
+            </table>
+            }
+
+<form id="DeleteForm" asp-controller="CustomerData" asp-action="Delete" method="post" >
+    <input type="hidden" id="HiddenCustomerID" name="CustomerID" value=""/>
+</form>
+
+
+@section Scripts {
+    <script>
+        $(document).ready( function () {
+         $('#CustomerInventoryTable').DataTable();
+    });
+
+    $('.deleteBtn').click(function(e) {
+        swal({
+            title: "Are you sure?",
+            text: "Are you sure you want to delete this record?",
+            icon: "warning",
+            buttons: true,
+            dangerMode: true
+        }).then((confirm) => {
+            if (confirm) {
+                var btn = $(this);
+                var id = btn.data("id");
+                $("#HiddenCustomerID").val(id);
+                $("#DeleteForm").submit();
+            }
+        });
+    });
+    </script>
+    }

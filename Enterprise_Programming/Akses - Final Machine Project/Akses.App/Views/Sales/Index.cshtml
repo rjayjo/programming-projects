@@ -1,0 +1,87 @@
+﻿@model List<Sales>
+
+<a asp-controller="Home" asp-action="Index" class="btn btn-primary">
+    <i class="fas fa-solid fa-house"></i>
+    Back to Homepage
+</a>
+
+
+@if (Model.Count() < 1)
+{
+    <div class="alert alear-info">
+        No Sales Record Found.
+    </div>
+}
+else
+{
+    <table class="table table-striped table-hover" id="SalesTable">
+                <thead> 
+                    <tr>
+                        <th>Entry No.</th>
+                        <th>Medicine Name</th>
+                        <th>Price</th>
+                        <th>Quantity</th>
+                        <th>Amount</th>
+                        <th>Date Sold</th>
+                   
+                        
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                {
+                    <tr>
+                        <td> @item.EntryID</td>
+                        <td> @item.MedicineName</td>
+                        <td> @item.Price</td>
+                        <td> @item.Quantity</td>
+                        <td> @item.Amount</td>
+                        <td> @item.DatePurchased</td>
+                        
+                            
+                            <td>
+                               <a asp-controller="Sales" asp-action="Edit" asp-route-id="@item.EntryID" class="btn btn-info">
+                                  <i class="fas fa-edit"></i>
+                                Edit
+                                </a>                             
+                              <button class="btn btn-danger deleteBtn" data-id="@item.EntryID">
+                                  <i class="fas fa-trash"></i>
+                                  Delete
+                              </button>
+                           
+                          </td>
+                    </tr>
+                }
+                </tbody>
+            </table>
+            }
+
+<form id="DeleteForm" asp-controller="Sales" asp-action="Delete" method="post" >
+    <input type="hidden" id="HiddenEntryID" name="EntryID" value=""/>
+</form>
+
+
+@section Scripts {
+    <script>
+        $(document).ready( function () {
+         $('#SalesTable').DataTable();
+    });
+
+    $('.deleteBtn').click(function(e) {
+        swal({
+            title: "Are you sure?",
+            text: "Are you sure you want to delete this record?",
+            icon: "warning",
+            buttons: true,
+            dangerMode: true
+        }).then((confirm) => {
+            if (confirm) {
+                var btn = $(this);
+                var id = btn.data("id");
+                $("#HiddenEntryID").val(id);
+                $("#DeleteForm").submit();
+            }
+        });
+    });
+    </script>
+    }

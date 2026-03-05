@@ -1,0 +1,21 @@
+﻿@model CustomerVM
+
+<h3>Edit Customer Details</h3>
+
+<form asp-controller="CustomerData" asp-action="Edit" method="post">
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <input type="hidden" asp-for="CustomerID" />
+   
+    <label asp-for="Name"></label>
+    <input type="text" asp-for="Name" class="form-control" />
+    <br />
+
+    <label asp-for="ContactNo"></label>
+    <input type="text" asp-for="ContactNo" class="form-control" />
+    <br />
+
+    <a asp-controller="CustomerData" asp-action="Index" class="btn btn-primary">
+        Back
+    </a>
+    <input type="submit" class="btn btn-success" value="Save Changes" />
+</form>

@@ -1,0 +1,81 @@
+﻿@model List<MedicineRequest>
+
+@if (Model.Count() < 1)
+{
+    <div class="alert alear-info">
+        No Requests Available.
+    </div>
+}
+else
+{
+    <table class="table table-striped table-hover" id="MedicineRequestTable">
+                <thead> 
+                    <tr>
+                        <th>Medicine Name</th>
+                        <th>Quantity</th>
+                        <th>Name of Requester</th>
+                        <th>Contact No.</th>
+                        <th>Date Needed</th>
+                        <th>Date Requested</th>
+                       
+                   
+                        
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                {
+                    <tr>
+                        <td> @item.Request</td>
+                        <td> @item.Quantity</td>
+                        <td> @item.NameOfRequester</td>
+                        <td> @item.ContactNoOfRequester</td>
+                        <td> @item.DateNeeded</td>
+                        <td> @item.DateRequested</td>
+
+                         <td>
+                               <button class="btn btn-success deleteBtn" data-id="@item.RequestID">
+                                  <i class="fas fa-trash"></i>
+                                  Supplied
+                              </button>
+                        </td>
+                       
+                    </tr>
+                }
+                </tbody>
+           </table>
+
+           }
+
+<form id="DeleteForm" asp-controller="Requests" asp-action="Supplied" method="post" >
+    <input type="hidden" id="HiddenRequestID" name="RequestID" value=""/>
+</form>
+
+
+@section Scripts {
+    <script>
+        $(document).ready( function () {
+         $('#MedicineRequestTable').DataTable();
+    });
+
+    $('.deleteBtn').click(function(e) {
+        swal({
+            title: "Are you sure?",
+            text: "Are you sure you want to delete this record?",
+            icon: "warning",
+            buttons: true,
+            dangerMode: true
+        }).then((confirm) => {
+            if (confirm) {
+                var btn = $(this);
+                var id = btn.data("id");
+                $("#HiddenRequestID").val(id);
+                $("#DeleteForm").submit();
+            }
+        });
+    });
+    </script>
+    }
+
+
+    

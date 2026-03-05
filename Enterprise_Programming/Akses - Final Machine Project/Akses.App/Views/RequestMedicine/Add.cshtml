@@ -1,0 +1,36 @@
+﻿@model MedicineRequest
+<h2> Medicine Request Form </h2>
+<br />
+<form asp-controller="RequestMedicine" asp-action="Add" method="post"> 
+ <div asp-validation-summary="All" class="text-danger"></div>
+
+    <label asp-for="NameOfRequester"> </label>
+    <input type="text" asp-for="NameOfRequester" class="form-control" />
+    <br/>
+
+    <label asp-for="ContactNoOfRequester"> </label>
+    <input type="text" asp-for="ContactNoOfRequester" class="form-control" />
+    <br/>
+
+    <label asp-for="Request"> </label> 
+    <input type="text" asp-for="Request" class="form-control" />
+    <br/>
+
+    <label asp-for="Quantity"> </label>
+    <input type="text" asp-for="Quantity" class="form-control" />
+    <br/>
+
+    <label asp-for="DateNeeded"> </label>
+    <input type="date" asp-for="DateNeeded" class="form-control" />
+    <br/>
+    
+    
+    <a asp-controller="RequestMedicine" asp-action="Index" class="btn btn-primary">
+    Back
+
+    </a>
+    <input type="submit" value="Put Request" class="btn btn-success" />
+
+
+</form>
+
