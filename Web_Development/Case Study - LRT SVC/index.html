@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>LRT1 Payment Sim</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<form id="form">
+
+    <div class="panel">
+    <h1>[  LRT1 Fare Matrix  ]</h1>
+
+    <div class="textbox">
+    <label for="amount"><b>Stored Value Card: </b></label>
+    <input class="php" type="number" id="amount" placeholder="PESO BALANCE">
+    <br><br>
+    </div>
+
+    <div>
+    <label class="initialstation" for="from"> INITIAL STATION - </label>
+    <select name="from" class="initial" id="from" required>
+        <optgroup label="FROM">
+    <option value="0">Baclaran</option>
+        </optgroup>
+    </select>
+    </div><br>
+
+    <div>
+    <label class="finalstation" for="to"> FINAL DESTINATION - </label>
+    <select class="final" name="to" id="to" required>
+        <optgroup label="TO">
+    <option value="19">Roosevelt</option>
+        </optgroup>
+    </select>
+
+    <br><br>
+    <input class="semibtn" type="submit" onclick="openSemiModal()" value="Calculate">
+        <input type="reset" value="Reset" id="reset">
+        <div class="semimodal" id="semimodal">
+            <img src="../images/icon-train.png">
+            <h3>Process Success</h3>
+            <button type="button" onclick="closeSemiModal()"> Understood</button>
+        </div>
+    </div>
+
+    <div>
+        <br><br>
+        <h1 class="prompt" id="message"></h1>
+    </div>
+
+</div>
+</form>
+<script src="build/app.js"></script>
+</body>
+</html>
